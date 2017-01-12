@@ -1,0 +1,10 @@
+/node_modules
+/typings
+qscreening/config.ts
+npm-debug.log
+*.js
+*.js.map
+.vscode
+CHANGELOG.md
+LICENSE
+README.md
